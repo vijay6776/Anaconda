@@ -15,4 +15,12 @@ public class Cobra {
 		return name;
 	}
 
+	public String getColour() {
+		return colour;
+	}
+
+	public void setColour(String colour) {
+		this.colour = colour;
+	}
+
 }
