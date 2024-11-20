@@ -22,5 +22,13 @@ public class Cobra {
 	public void setColour(String colour) {
 		this.colour = colour;
 	}
+	
+	public Double getLength() {
+		return length;
+	}
+
+	public void setLength(Double length) {
+		this.length = length;
+	}
 
 }
